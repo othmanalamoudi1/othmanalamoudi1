@@ -2,17 +2,17 @@
 
 <h2>👨‍💻 Cybersecurity Project:</h2>
 
- - <b>Setup SIEM in Azure (sentinel) </b>
-- <b>Setup Virtual Active Directory Environment in Azure </b>
-- <b>Create a File Integrity Monitor (FIM) </b>
-- <b> Setup a Vulnerability Management Lab </b>
-- <b>Build a Simple REST API </b>
+ - <b>Setup SIEM in Azure (sentinel) - In Progress </b>
+- <b>Setup Virtual Active Directory Environment in Azure - In Progress </b>
+- <b>Create a File Integrity Monitor (FIM) - In Progress </b>
+- <b> Setup a Vulnerability Management Lab - In Progress </b>
+- <b>Build a Simple REST API - In Progress </b>
 
 <h2>📄 Certifications</h2>
 
 - <b> CompTIA A+ </b>
 - <b> CompTIA Security+ </b>
-- <b> Exam SC-200 </b>
+- <b> Exam SC-200  - In Progress</b>
 <h2>🔬others </h2>
 
  - <b>Python </b>
