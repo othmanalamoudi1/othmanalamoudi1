@@ -12,11 +12,14 @@
 - <b> Exam SC-200  - In Progress</b>
 <h2>🔬others </h2>
 
- - <b>Python </b>
-  - <b>Javascripts </b>
-   - <b>SQL</b>
+* <b>Python </b>
+
+* <b>Javascripts </b>
+
+* [SQL](https://github.com/othmanalamoudi1/Music-Store-SQL-Project)
+   
   
-  - <b>R language </b>
+* <b>R language </b>
 
 
 <h2> 🤳 Connect with me:</h2>
