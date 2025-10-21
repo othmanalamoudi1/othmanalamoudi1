@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Project:</h2>
 
 * [ActiveDirectory](https://github.com/othmanalamoudi1/ActiveDirectory-User-Creation-Automation)
-* [Troubleshoting Guide](https://github.com/othmanalamoudi1/Troubleshooting_Guide)
+
  
 
 <h2>📄 Certifications</h2>
