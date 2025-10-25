@@ -12,7 +12,7 @@
 -  <b> Google Data Analytics Professional</b>
 - <b> CompTIA A+ </b>
 - <b> CompTIA Security+ </b>
-- <b> Exam SC-200  - In Progress</b>
+
 <h2>🔬others </h2>
 
 * <b>Python </b>
