@@ -1,43 +1,76 @@
-<h1>Hi, I'm Othman! <br/>
+# 👋 Hi, I'm Othman!
 
-<h2>👨‍💻 IT Project:</h2>
+🚀 **IT & Cybersecurity Enthusiast** | 💻 **Front-End Developer (HTML, CSS, JS)**  
+📍 Canada | 🧠 Lifelong Learner | ⚡ Building skills one project at a time  
 
-* [ActiveDirectory](https://github.com/othmanalamoudi1/ActiveDirectory-User-Creation-Automation)
+---
 
- 
+## 💼 Featured Projects
+| Project | Description | Live Demo |
+|----------|--------------|------------|
+| [🛠️ Assembly Super Handyman](https://othmanalamoudi1.github.io/Assembly-Super-Handyman/) | Responsive furniture assembly website using HTML & CSS | [Live](https://othmanalamoudi1.github.io/Assembly-Super-Handyman/) |
+| [🖥️ Active Directory Lab](#) | Windows Server + AD DS + Group Policy setup | [Live](https://github.com/othmanalamoudi1/ActiveDirectory-User-Creation-Automation) |
+| [🎵 Music Store SQL](#) | SQL database project for store management | — |
 
-<h2>📄 Certifications</h2>
+---
 
-- <b> Business Analyst  </b>
--  <b> Google Data Analytics Professional</b>
-- <b> CompTIA A+ </b>
-- <b> CompTIA Security+ </b>
+## 🎓 Certifications
+- [Google Data Analytics Professional](https://coursera.org/share/3dbe531cf30491d4b85f911659c783d0)
+- CompTIA A+  
+- CompTIA Security+ *(in progress)*  
+- Business Analyst Certificate  
 
-<h2>🔬others </h2>
+---
 
-* <b>Python </b>
+## 🧠 Tech Stack
+**Languages:** HTML, CSS, Python, JavaScript, SQL, R  
+**Tools:** Git, VS Code, PowerShell, VirtualBox  
+**Concepts:** Networking, System Admin, Data Analysis  
 
-* <b>Javascripts </b>
-  - [Guess-the-number](https://github.com/othmanalamoudi1/Guess-the-number)
-* <b>SQL </b>
-  - [Music-Store-SQL](https://github.com/othmanalamoudi1/Music-Store-SQL-Project)
-   
-  
-* <b>R language </b>
-  - [Cyclistic Bike Share](https://github.com/othmanalamoudi1/Cyclistic-bike-share-analysis-case-study)
+---
+
+## 🔬 Other Projects
+- 🐍 [Guess the Number (Python)](#)  
+- 🧮 [Cyclistic Bike Share (R)](#)
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmanalamoudi1)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/othmanalamoudi1)
+
+---
+
+⭐ *Always building, learning, and sharing projects that make life simpler!*
 
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/othmanalamoudi1/
-[linkedin]: https://www.linkedin.com/in/othman-alamoudi-920039161/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Here are some ideas to get you started:
 
