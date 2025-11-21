@@ -10,7 +10,7 @@
 |----------|--------------|------------|
 | [🛠️ Assembly Super Handyman](https://othmanalamoudi1.github.io/Assembly-Super-Handyman/) | Responsive furniture assembly website using HTML & CSS | [Live](https://othmanalamoudi1.github.io/Assembly-Super-Handyman/) |
 | [🖥️ Active Directory Lab](#) | Windows Server + AD DS + Group Policy setup | [Live](https://github.com/othmanalamoudi1/ActiveDirectory-User-Creation-Automation) |
-| [🎵 Music Store SQL](#) | SQL database project for store management | — |
+| [🎵 Music Store SQL](#) | SQL database project for store management |  [Live](https://github.com/othmanalamoudi1/Music-Store-SQL-Project)  |
 
 ---
 
